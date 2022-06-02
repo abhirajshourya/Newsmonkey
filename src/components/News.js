@@ -93,7 +93,7 @@ News.defaultProps = {
   country: "in",
   pageSize: 9,
   category: "general",
-  apiKey: process.env.REACT_APP_NEWS_API,
+  apiKey: "aeb3c03d48544755a2ee49c362a5cc4b",
 };
 News.propTypes = {
   country: PropTypes.string,
